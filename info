@@ -1,2 +1,7 @@
-An introduction to software design and development concepts, methods, and tools, using a statically-typed object-oriented language such as Java. 
-Topics from: version control, build management, unit testing, refactoring, object-oriented design and development, design patterns and advanced IDE usage.
+This lab introduces Java programming and Git/GitHub. 
+Its purpose is to familiarize with compiling and running Java programs directly from the command line while practicing version control basics, such as creating a repository, 
+cloning it, committing changes, and pushing code to GitHub. 
+I will create a public GitHub repository named b07lab1, clone it to my machine, and use it to store my lab code. 
+Regarding programming, this lab requires me to implement a simple Polynomial class in Java that represents polynomials using an array of coefficients. 
+This class must include a constructor, methods for computing the sum of two polynomials, methods for evaluating a polynomial at a given value of x, and methods for checking whether a number is a root of the polynomial. 
+The lab will test my implementation using the provided Driver class. 
